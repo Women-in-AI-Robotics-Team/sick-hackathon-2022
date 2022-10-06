@@ -6,5 +6,5 @@ An odor-based navigation system that combines AI Nose with Automated Guided Vehi
 - [Gabriela Cortes](https://github.com/gecortesh/)
 - [Naomi Mukuhi](https://github.com/ommie189)
 - [Nathanya Queby S.](https://github.com/nathanyaqueby)
-- Shrishti Mohabey
-- Mouna Albaccouch
+- [Shrishti Mohabey](https://github.com/SMohabey)
+- [Mouna Albaccouch](https://github.com/mounalbaccouch)
